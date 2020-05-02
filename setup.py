@@ -18,6 +18,7 @@ setuptools.setup(
     description="A small example package for removal of outliers in the given dataset",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    download_url="https://github.com/AkritiSehgal/outlier_removal_101703048/archive/v_01.3.tar.gz",
     keywords = ['command-line', 'Outliers', 'outlier-removal','row-removal'],
     packages=setuptools.find_packages(),
     classifiers=[
